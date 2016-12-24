@@ -23,6 +23,8 @@ class HelloModel extends Model {
 	}
 	
 	
+	
+	
 	/**
 	 * 数据表结构
 	 * @see https://laravel.com/docs/5.3/migrations#creating-columns
