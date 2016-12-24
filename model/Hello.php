@@ -22,6 +22,7 @@ class HelloModel extends Model {
 		$this->table('hello');
 	}
 	
+	
 	/**
 	 * 数据表结构
 	 * @see https://laravel.com/docs/5.3/migrations#creating-columns
