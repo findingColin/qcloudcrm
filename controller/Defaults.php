@@ -40,8 +40,8 @@ class DefaultsController extends \Tuanduimao\Loader\Controller {
 	        ]
 		];
 	}
-function test(){
-	 phpinfo();
+	function test(){
+	    phpinfo();
 	}
 	function faker() {
 		$hello = App::M('Hello');
