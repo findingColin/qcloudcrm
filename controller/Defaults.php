@@ -41,6 +41,7 @@ class DefaultsController extends \Tuanduimao\Loader\Controller {
 		];
 	}
 	function test(){
+		//test1
 	    phpinfo();
 	}
 	function faker() {
